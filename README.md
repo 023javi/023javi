@@ -1,7 +1,13 @@
-## Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
+   <h3 align="center">¡Hey 👋! Soy 023javi 👨🏻‍💻</h3>
+</p>
 
-
-**023javi/023javi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   
+   ![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=midudev&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   
+</div>
 
 Here are some ideas to get you started:
 
