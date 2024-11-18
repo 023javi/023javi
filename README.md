@@ -9,6 +9,6 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,blender,dotnet,jquery,ps,postman,sequelize,unity,unreal,visualstudio,webpack" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,atom,cs,electron,lua" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,dotnet,jquery,ps,postman,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,cs,lua" /><br>
 </div>
