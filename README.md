@@ -55,6 +55,7 @@ Estoy documentando el desarrollo en formato corto (dev logs)
 </p>
 
 <p align="center">
+<a href="https://023javi-portfolio.vercel.app/">💻 Portfolio</a> • 
 <a href="https://vm.tiktok.com/ZNRXXmcNE/">📱 TikTok</a> • 
 <a href="https://www.instagram.com/reel/DWzTtC9CAwl/?igsh=MTJjaHAzbXB1bHQzYg==">🚀 Instagram</a> • 
 <a href="https://youtube.com/shorts/qwRII9ZzhBA?is=O60hnChPstDoHxc6">🎥 YouTube</a>
