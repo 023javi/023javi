@@ -66,7 +66,7 @@ Estoy documentando el desarrollo en formato corto (dev logs)
 ## 📬 Contacto
 
 <p align="center">
-💬 Discord: <b>023_javi</b><br>
+💬 Discord: <b>#023_javi</b><br>
 🚀 Colaboraciones abiertas
 </p>
 
